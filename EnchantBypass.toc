@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Enchant Bypass
+## Notes: Auto-confirms the Replace Enchant popup. /epass to toggle.
+## Author: Micheal
+## Version: 1.0.0
+## SavedVariables: EnchantBypassDB
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## Category-enUS: Professions
+## AllowLoadGameType: camelot, mainline
+## X-Compatible-With: forever
+
+EnchantBypass.lua
